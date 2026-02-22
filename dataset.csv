@@ -1,0 +1,21 @@
+symptom1,symptom2,symptom3,symptom4,disease
+fever,cough,headache,nausea,Common Cold
+fever,sore throat,cough,runny nose,Flu
+chest pain,shortness of breath,fatigue,dizziness,Heart Disease
+abdominal pain,nausea,vomiting,diarrhea,Food Poisoning
+fever,rash,itching,swelling,Allergic Reaction
+headache,dizziness,nausea,blurred vision,Migraine
+cough,chest pain,fever,shortness of breath,Pneumonia
+abdominal pain,jaundice,fatigue,loss of appetite,Hepatitis
+joint pain,swelling,stiffness,fever,Arthritis
+fever,chills,sweating,cough,Tuberculosis
+skin rash,itching,redness,blisters,Eczema
+fever,headache,stiff neck,nausea,Meningitis
+chest pain,arm pain,shortness of breath,sweating,Heart Attack
+abdominal pain,bloating,gas,nausea,Indigestion
+fever,sore throat,swollen glands,fatigue,Mononucleosis
+cough,wheezing,shortness of breath,chest tightness,Asthma
+headache,confusion,seizures,nausea,Epilepsy
+fever,diarrhea,abdominal pain,dehydration,Cholera
+skin lesions,weight loss,fever,night sweats,HIV/AIDS
+joint pain,muscle pain,fatigue,fever,Lyme Disease

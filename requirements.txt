@@ -1,0 +1,6 @@
+flask
+pandas
+numpy
+scikit-learn
+mysql-connector-python
+pickle-mixin
